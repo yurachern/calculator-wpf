@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHomeWork2", "WpfHomeWork2\WpfHomeWork2.csproj", "{49340F40-733D-45FA-B261-06FD9CA4B8E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49340F40-733D-45FA-B261-06FD9CA4B8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49340F40-733D-45FA-B261-06FD9CA4B8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49340F40-733D-45FA-B261-06FD9CA4B8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49340F40-733D-45FA-B261-06FD9CA4B8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AECCCB8-2D58-4A1B-9FEF-92E0F43082DD}
+	EndGlobalSection
+EndGlobal
